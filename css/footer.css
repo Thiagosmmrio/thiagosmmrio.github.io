@@ -1,0 +1,30 @@
+.footer{
+    background: #000000;
+}
+
+.footer-content__wrap {
+    display: flex;
+}
+
+.footer-content {
+    max-width: 36%;
+    margin-top: 129px;
+    font-size: 1.3rem;
+    color: #808080;
+}
+
+.footer-contact {
+    max-width: 22%;
+    margin-left: 256px;
+    margin-top: 80px;
+    font-size: 2rem;
+    line-height: 1.7;
+    color: white;
+    font-weight: 750;
+}
+
+.final{
+    margin-top: 60px;
+    color: #808080ad;
+    padding-bottom: 100px;
+}
